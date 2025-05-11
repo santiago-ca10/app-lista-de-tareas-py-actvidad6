@@ -14,8 +14,8 @@ Permite crear, editar, completar, eliminar tareas y cambiar el color de fondo.
 
 - Agregar, editar, eliminar tareas
 - Marcar tareas como completadas
-- Guardado automático en `tasks.json`
+- Guardado automático en (tasks.json)
 - Personalizar el color de fondo
-- Persistencia de configuración (`settings.json`)
+- Persistencia de configuración (settings.json)
 
 
